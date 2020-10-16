@@ -8,3 +8,13 @@ background-color:#pink;
 color:#purple;
 font-size:4em;
 }
+ul.nav li{
+  display:inline;
+  padding:8px;
+  }
+ul.nav li a{
+  display:block;
+  padding:8px;
+  background-color:#708090;
+  color:#DDA0DD;
+  }
