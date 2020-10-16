@@ -1,5 +1,10 @@
 h1{
+p.fancy{
+color:#babyblue;
+font-style: oblique;
+}
+
 background-color:#pink;
 color:#purple;
-font-size:5em;
+font-size:4em;
 }
