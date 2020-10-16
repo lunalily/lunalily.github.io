@@ -8,18 +8,3 @@ background-color:#pink;
 color:#purple;
 font-size:4em;
 }
-<!DOCTYPEindex.html>
-<html>
-<style>
-div {
-    height: 400px;
-    background: linear-gradient(to right, #ff00ff 0%, #666699 100%)
-}
-</style>
-<body>
-
-<div></div>
-
-</body>
-</html>
-}
