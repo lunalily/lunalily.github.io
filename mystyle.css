@@ -18,4 +18,8 @@ ul.nav li a{
   padding:8px;
   background-color:#708090;
   color:#DDA0DD;
+  text-decoration:none;
+  }
+ul.nav li a:hover{
+  background-color:#navy;
   }
