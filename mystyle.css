@@ -6,3 +6,6 @@ p{
   font-size:20px;
   color:#336699;
 }
+div{
+    background: linear-gradient(to right, #6666ff 0%, #666699 100%);
+}
