@@ -15,7 +15,7 @@ ul.nav li{
   width:50px;
 }
 ul.nav li a{
-  display:block;
+  display:inline-block;
   padding:10px;
   background-color:#cc66ff;
   color:#666699;
