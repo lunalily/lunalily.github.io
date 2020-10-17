@@ -9,3 +9,13 @@ p{
 body{
   background-color:#9966ff;
 }
+ul.nav li{
+  display:inline;
+  padding:10px;
+}
+ul.nav li a{
+  display:block;
+  padding:10px;
+  background-color:#cc66ff;
+  color:#666699;
+}
