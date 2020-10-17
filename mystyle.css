@@ -1,12 +1,9 @@
 h1{
-p.fancy{
-color:#babyblue;
 font-style: oblique;
 }
-
 background-color:#pink;
 color:#purple;
-font-size:4em;
+font-size:5em;
 }
 ul.nav li{
   display:inline;
@@ -21,5 +18,5 @@ ul.nav li a{
   text-decoration:none;
   }
 ul.nav li a:hover{
-  background-color:#000;
+  background-color:#Purple;
   }
