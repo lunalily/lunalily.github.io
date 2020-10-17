@@ -6,17 +6,6 @@ p{
   font-size:20px;
   color:#336699;
 }
-<!DOCTYPE html>
-<html>
-<style>
-div {
-    height: 400px;
-    background: linear-gradient(to right, #6666ff 0%, #666699 100%)
+body{
+  background-color:#9999ff;
 }
-</style>
-<body>
-
-<div></div>
-
-</body>
-</html>
