@@ -23,3 +23,9 @@ ul.nav li a{
 ul.nav li a:hover{
   background-color:#000;
   }
+</body>
+<style>
+		body {background:linear-gradient(to right, #666699 0%, #cc99ff 100%); color:white;}
+	</style>
+</html>
+}
