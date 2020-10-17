@@ -1,12 +1,6 @@
 h1{
-p.fancy{
-color:#babyblue;
-font-style: oblique;
-}
-  
-background-color:#pink;
-color:#purple;
-font-size:4em;
+  font-size:100px;
+  color:#a59eb0;
 }
 ul.nav li{
   display:inline;
