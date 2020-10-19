@@ -26,3 +26,9 @@ ul.nav li a{
 ul.nav li a:hover{
   background-color:#993366;
 }
+{
+  background-image: url("transparent.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
