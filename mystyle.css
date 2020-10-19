@@ -26,3 +26,8 @@ ul.nav li a{
 ul.nav li a:hover{
   background-color:#993366;
 }
+<style>
+table, th, td {
+  border: 2.5px solid lightblue;
+}</style>
+
