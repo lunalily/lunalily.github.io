@@ -43,12 +43,12 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: purple;
+  color: silver;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: fuchsia;
 }
 
 /* selected link */
