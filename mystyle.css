@@ -36,3 +36,22 @@ table{
 table, th, td {
     border: 1px solid silver;
 }
+/* unvisited link */
+a:link {
+  color: silver;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
