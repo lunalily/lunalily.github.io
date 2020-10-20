@@ -29,3 +29,9 @@ ul.nav li a:hover{
 .my-img{
   margin:20px 10p;
 }
+table{
+    background-color: cyan;
+}
+table, th, td {
+    border: 1px solid black;
+}
