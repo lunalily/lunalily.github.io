@@ -43,7 +43,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: silver;
+  color:#FFC0CB ;
 }
 
 /* mouse over link */
@@ -53,5 +53,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: black;
+  color: #800080;
 }
